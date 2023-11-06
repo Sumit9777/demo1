@@ -1,0 +1,10 @@
+git init
+git status
+git add hello.txt
+git config --global user.email"202103061.sumitvls@student.xavier.ac.in"
+git config user.name"Sumit9777"
+git commit -m "succes"
+git reemote add origin githublink
+git push origin master/main
+git pull link
+
